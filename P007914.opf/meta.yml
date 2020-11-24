@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W26028
   title: ཨ་ཁུ་སྟོན་པ།
-  volume: ''
+  volume:
+    98997ae560004a86a25e1e897c2a579e:
+      image_group_id: I1KG23249
+      title: Volume 1 of a khu ston pa/
+      volume_number: 1
+      total_pages: 110
   author: ''
+ebook_metadata:
+  title: ཨ་ཁུ་སྟོན་པ།
+  author: ''
+  sku: P007914
+  cover: cover.jpg
+  layers:
+  - pagination
