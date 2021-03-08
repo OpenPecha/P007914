@@ -10,6 +10,12 @@ source_metadata:
       volume_number: 1
       total_pages: 110
   author: ''
+  volumes:
+    fab388fdb37a43c698abf79b65c6cb41:
+      image_group_id: I1KG23249
+      title: ''
+      volume_number: 1
+      total_pages: 110
 ebook_metadata:
   title: ཨ་ཁུ་སྟོན་པ།
   author: ''
